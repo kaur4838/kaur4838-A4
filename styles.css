@@ -1,0 +1,15 @@
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+.mat-tab-label {
+  color: darkslategray;
+  font-weight: bold;
+}
+
+.mat-tab-label-active {
+  font-weight: bold;
+  color: indigo;
+}
+h1{
+    background-color: pink;
+    text-align:center;
+}

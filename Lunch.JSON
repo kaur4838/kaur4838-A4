@@ -1,0 +1,9 @@
+{
+    "lunch": 
+      [
+          {"food": "dal","price": "$20","calories":"600"},
+          {"food": "channa masala","price": "$25","calories":"300"},
+          {"food": "chicken","price": "$35","calories":"400"}
+         
+    ]
+  }

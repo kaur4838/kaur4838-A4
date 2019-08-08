@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"food": "Channa Masala","price": "$20","calories":"500"},
+          {"food": "tandoori tikka","price": "$25","calories":"600"},
+          {"food": "chilli paneer","price": "$15","calories":"700"}
+         
+    ]
+  }

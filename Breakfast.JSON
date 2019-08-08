@@ -1,0 +1,9 @@
+{
+    "breakfast": 
+      [
+          {"food": "bread","price": "$10","calories":"100"},
+          {"food": "parantha","price": "$15","calories":"1000"},
+          {"food": "Milk","price": "$5","calories":"300"}
+         
+    ]
+  }
